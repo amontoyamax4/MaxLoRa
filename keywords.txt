@@ -1,0 +1,47 @@
+
+###########################################
+# Syntax Coloring Map For MaxLoRa
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+MaxLoRa	KEYWORD1
+
+port_t	KEYWORD1
+response_t	KEYWORD1
+fp_t	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+showStatus	KEYWORD2
+onMessage	KEYWORD2
+provision	KEYWORD2
+join	KEYWORD2
+personalize	KEYWORD2
+sendBytes	KEYWORD2
+poll	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DEFAULT_SF	LITERAL1
+DEFAULT_FSB	LITERAL1
+RETX	LITERAL1
+PWRIDX_868	LITERAL1
+PWRIDX_915	LITERAL1
+BUFFER_SIZE	LITERAL1
+ERROR_SEND_COMMAND_FAILED	LITERAL1
+ERROR_UNEXPECTED_RESPONSE	LITERAL1
+SUCCESSFUL_TRANSMISSION	LITERAL1
+SUCCESSFUL_RECEIVE	LITERAL1
+FP_EU868	LITERAL1
+FP_US915	LITERAL1
+FP_AS920_923	LITERAL1
+FP_AS923_925	LITERAL1
+FP_KR920_923	LITERAL1
+FP_US915AB 		LITERAL1
